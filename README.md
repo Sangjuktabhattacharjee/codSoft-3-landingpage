@@ -16,4 +16,4 @@ A modern and elegant landing page for **Bangalian**, designed to be user-friendl
 
 ## 🎥 Video Preview  
 
-[![Watch the video](https://github.com/Sangjuktabhattacharjee/codSoft-3-landingpage/blob/main/thumbnail.png)](https://github.com/Sangjuktabhattacharjee/codSoft-3-landingpage/blob/main/Screen%20Recording%202025-03-25%20205712.mp4)
+[![Watch the video] (https://github.com/Sangjuktabhattacharjee/codSoft-3-landingpage/blob/main/Screenshot%202025-03-25%20211355.png)](https://github.com/Sangjuktabhattacharjee/codSoft-3-landingpage/blob/main/Screen%20Recording%202025-03-25%20205712.mp4)
